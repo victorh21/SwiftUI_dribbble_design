@@ -3,7 +3,7 @@
     {
       "identity" : "bottomsheet",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Wouter125/BottomSheet",
+      "location" : "https://github.com/victorh21/SwiftUI_dribbble_design",
       "state" : {
         "branch" : "main",
         "revision" : "44ab4103c63b07777bef40b91d5a21c3a12dbda4"
